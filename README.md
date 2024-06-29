@@ -28,6 +28,6 @@ conda activate interview
 
 3. git commit -m "read me updated"
 
-4. git 
+4. git push origin main 
 ```
 
