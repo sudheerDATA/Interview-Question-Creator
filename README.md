@@ -30,4 +30,7 @@ conda activate interview
 
 4. git push origin main 
 ```
-
+2. install requirements
+```bash
+pip install -r requirements.txt
+```
