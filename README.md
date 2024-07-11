@@ -706,6 +706,8 @@ print(answer)
 In this example, the OpenAI API key is securely loaded from the environment and used to make API calls to generate responses based on user prompts.
 
 By explaining this setup, you demonstrate an understanding of secure coding practices and the practical use of environment variables in managing sensitive information.mahe
+----------------------------------------------------
+
 
 
 
